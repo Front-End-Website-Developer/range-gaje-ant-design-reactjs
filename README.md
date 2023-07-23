@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This one is range of salary. You cab use this if u needed. Espexially if youare building a web for job seeker
+This one is range of salary. You cab use this if u needed. Espexially if youare building a web for job seeker, you will be needed of tjis one.
 
 ## Available Scripts
 

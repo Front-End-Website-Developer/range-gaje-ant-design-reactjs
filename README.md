@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This one is range of salary.
+This one is range of salary. You cab use this if u needed.
 
 ## Available Scripts
 
